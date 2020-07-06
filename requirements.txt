@@ -1,0 +1,2 @@
+git+git://github.com/ckan/ckanext-dcat/@v1.1.0#egg=ckanext-dcat
+python-dateutil
